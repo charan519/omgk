@@ -1,1 +1,1 @@
-# omgk
+# Geoguide
